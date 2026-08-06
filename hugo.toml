@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://mcdeleve.github.io/portfolio/"
 languageCode = "pt-br"
-title = "Split - HTML Template Demo"
+title = "De Leve, a lenda do Quinto Andar"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
@@ -92,15 +92,15 @@ copyright = "&copy;2026 De Leve"
       heading = "Jobs"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "NÃO EXISTE"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "FEAT GRÁTIS"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Three"
+        text = "-----------"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
