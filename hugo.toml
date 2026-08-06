@@ -57,7 +57,7 @@ copyright = "&copy;2026 De Leve"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "mcdeleve.github.io/lowreslife"
+        url = "http://mcdeleve.github.io/lowreslife"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
@@ -65,9 +65,9 @@ copyright = "&copy;2026 De Leve"
         url = "mailto:falacomigo@tutanota.de"
         new_tab = false # Default, open at same tab
 
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+      #[[params.links.list1.link]]
+       # text = "Newsletter"
+        #url = "#"
 
   # Links List #2
   [[params.links]]
@@ -82,9 +82,9 @@ copyright = "&copy;2026 De Leve"
         text = "Youtube"
         url = "http://youtube.com/@mcdeleve"
 
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+      #[[params.links.list2.link]]
+       # text = "Dribbble"
+        #url = "#"
 
   # Links List #3
   [[params.links]]
@@ -93,15 +93,15 @@ copyright = "&copy;2026 De Leve"
 
       [[params.links.list3.link]]
         text = "NÃO EXISTE"
-        url = "#"
+        #url = "#"
 
       [[params.links.list3.link]]
         text = "FEAT GRÁTIS"
-        url = "#"
+        #url = "#"
 
-      [[params.links.list3.link]]
-        text = "-----------"
-        url = "#"
+      #[[params.links.list3.link]]
+       # text = "-----------"
+       # url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
