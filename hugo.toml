@@ -1,6 +1,6 @@
 # Site settings
-baseURL = "https://example.com"
-languageCode = "en-US"
+baseURL = "https://mcdeleve.github.io/portfolio/"
+languageCode = "pt-br"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
@@ -11,7 +11,7 @@ relativeURLs = true
 uglyURLs = true
 
 # Copyright
-copyright = "&copy;2024 Your Name"
+copyright = "&copy;2026 De Leve"
 
 [services]
   [services.googleAnalytics]
@@ -38,7 +38,7 @@ copyright = "&copy;2024 Your Name"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/alenda2.jpg"
       position = "center center"
 
     # Video
@@ -53,16 +53,16 @@ copyright = "&copy;2024 Your Name"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Fala Comigo"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "mcdeleve.github.io/lowreslife"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "mailto:falacomigo@tutanota.de"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
@@ -72,15 +72,15 @@ copyright = "&copy;2024 Your Name"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+      heading = "Redes"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "http://instagram.com/mcdeleve"
+
+      [[params.links.list2.link]]
+        text = "Youtube"
+        url = "http://youtube.com/@mcdeleve"
 
       [[params.links.list2.link]]
         text = "Dribbble"
@@ -89,7 +89,7 @@ copyright = "&copy;2024 Your Name"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Jobs"
 
       [[params.links.list3.link]]
         text = "Link One"
