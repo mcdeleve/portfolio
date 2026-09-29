@@ -92,11 +92,11 @@ copyright = "&copy;2026 De Leve"
       heading = "Jobs"
 
       [[params.links.list3.link]]
-        text = "NÃO EXISTE"
-        #url = "#"
+        text = "Loja Quinto Andar"
+        url = "https://wa.me/c/5521995567539"
 
       [[params.links.list3.link]]
-        text = "FEAT GRÁTIS"
+        text = "NÃO FAÇO FEAT GRÁTIS"
         #url = "#"
 
       #[[params.links.list3.link]]
